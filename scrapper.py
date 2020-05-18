@@ -20,8 +20,8 @@ try:
     print("==========================================")
     print("Scrape Data From Contact Name : ")
     print("Input Contact Name : ")
-    #contact_name = input()
-    contact_name = "Yii Elite"
+    contact_name = input()
+    #contact_name = "Yii Elite"
     try:
         contact = driver.find_element_by_xpath("//span[@title=\""+contact_name+"\"]")
     except:
