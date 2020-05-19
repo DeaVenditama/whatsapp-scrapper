@@ -7,6 +7,5 @@ This is Python3 and Selenium based Scrapper
 <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a><br>
 <h3>Installing Selenium</h3>
 pip install selenium
-<br>
 <h3>Start The Application</h3>
 Python3 scraper.py
