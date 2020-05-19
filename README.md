@@ -16,3 +16,7 @@ pip install selenium
 ```
 Python3 scraper.py
 ```
+
+All images will be saved inside `project/images` folder
+<br>
+Thanks
