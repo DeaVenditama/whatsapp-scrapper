@@ -20,7 +20,7 @@ class Scraper:
         self.driver = webdriver.Chrome(chrome_options=chrome_options)
         print("Opening Whatsapp Web Window")
         self.driver.get('https://web.whatsapp.com')
-        print("Scan Your QR Codes and Press Enter (Press Enter if You're Logged In)") 
+        print("Scan Your QR Codes and Press Enter (Press Enter if You're Already Logged In)")
         input()
 
     def scrapeImages(self):
