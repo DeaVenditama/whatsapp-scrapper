@@ -1,4 +1,4 @@
-<h1>Whatsapp Scrapper</h1>
+<h1>Whatsapp Images Scrapper</h1>
 <strong>Do It With Your Own Risk</strong>
 
 This is Python3 and Selenium based Scrapper
